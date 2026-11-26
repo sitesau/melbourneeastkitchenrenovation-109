@@ -1,0 +1,22 @@
+{
+  "wheel_id": 971,
+  "structure": "umbrella",
+  "slug": "melbourneeastkitchenrenovation-109",
+  "project": "kitchen-renovations-eastern-melbourne-local-options-compared945",
+  "parent_t1_ref": "melbourneeastkitchenrenovation-154",
+  "node_role": "feeder",
+  "money_target": "melbourneeastkitchenrenovation.com.au",
+  "primary_kw": "kitchen renovations eastern melbourne local options compared",
+  "intended_url": "http://kitchen-renovations-eastern-melbourne-local-options-compared945.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "eb580683a9ae25ba",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/melbourneeastkitchenrenovation-154/",
+      "anchor": "the related resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
